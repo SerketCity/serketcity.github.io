@@ -29,8 +29,14 @@
 <style>
   #app {
     position: fixed;
-    top: 35%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
+
+    width: 700px;
+    
+    background: linear-gradient(0deg, #FFFFFF 15%, #004040 100%); 
+
+    border-radius: 25px 25px;
   }
 </style>

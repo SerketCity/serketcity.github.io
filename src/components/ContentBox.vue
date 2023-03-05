@@ -28,5 +28,16 @@
 <style>
   .box {
     text-align: center;
+
+    padding-left: 10px;
+    padding-right: 10px;
+
+    height: 1000px;
+  }
+
+  span {
+    font-family: "Monaco", monospace;
+    font-size: 135%;
+    max-width: 100px;
   }
 </style>
