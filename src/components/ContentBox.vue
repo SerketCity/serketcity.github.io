@@ -40,4 +40,12 @@
     font-size: 135%;
     max-width: 100px;
   }
+
+  a {
+    color: red;
+  }
+
+  li {
+    text-align: left;
+  }
 </style>

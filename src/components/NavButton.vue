@@ -17,6 +17,7 @@
     padding: 28px;
 
     font-family: "Lucida Console", monospace;
+    user-select: none;
 
     transition: color 0.15s;
   }
