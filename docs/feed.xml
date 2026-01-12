@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>egregore.garden</title>
+  <subtitle>a blog from me to you</subtitle>
+  <link href="https://egregore.garden/feed.xml" rel="self" />
+  <link href="https://egregore.garden/" />
+  <updated>2026-01-12T09:42:09Z</updated>
+  <id>https://egregore.garden/</id>
+  <author>
+    <name>john</name>
+  </author>
+  <entry>
+    <title>THIS IS A TEMPORARY POST THAT I WILL DELETE FOREVER ONE DAY</title>
+    <link href="https://egregore.garden/posts/1/" />
+    <updated>2026-01-12T09:42:09Z</updated>
+    <id>https://egregore.garden/posts/1/</id>
+    <content type="html">&lt;p&gt;hi gamers this is just a temporary first post while i continue to build out the site. its gonna be fugly while i figure out what i wanna do for constructing this shit (im currently messing around with &lt;a href=&quot;https://www.11ty.dev/&quot;&gt;11ty&lt;/a&gt; and i like it a lot)&lt;/p&gt;
+&lt;p&gt;HOWEVER,&lt;/p&gt;
+&lt;p&gt;you can currently subscribe to my &lt;a href=&quot;https://egregore.garden/feed.xml&quot;&gt;feed&lt;/a&gt; with your rss/atom reader of choice. my first real goal for this is to type up a reflection post on 2025. which!!!! kinda makes it obvious as to why i really wanted to get this done before the year ended. whoops!&lt;/p&gt;
+</content>
+  </entry>
+</feed>
